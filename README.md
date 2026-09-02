@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/career-header.svg" alt="Carlos Pinto, CTO and AI platform architect" width="100%" />
+  <img src="./assets/nomos-header.svg" alt="Carlos Pinto, CTO and AI platform architect" width="100%" />
 </p>
 
 <p align="center">
