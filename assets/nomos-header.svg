@@ -1,0 +1,577 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-label="Carlos Pinto, CTO and AI platform architect. A timeline of systems shipped at Amazon, Google, NASA, Neurona Technologies, Datacom and Apivo." xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpiMGJlNzk3ZS1kZTc5LTRmOGUtYmE4OC1mNDFkZWUyMGRhNzgAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaKM50pXLZ0g+R2k8gE/1orkAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDphMDcwMDlmMi1kMjVjLTRkYmUtOWRjYy1jNzJlYTMxYzU3ZmNscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoxhORhYz5cngq+cxjeGs74gAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggQLZAUwUJvjNwBgLN2cjiZZOTisMglsj1sjQ4o+iPwvKkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaPQ4tFb1vX9pa+mGDt8xYTMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIEbNtOtgLwHPxYkhyzsgsHmB/rfT/OmGpm5hiekIGeuGZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GQE9Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmIwYmU3OTdlLWRlNzktNGY4ZS1iYTg4LWY0MWRlZTIwZGE3OC9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjUyOGZhYjBhLTYyMDktNDVkOC1iOGFiLWU3N2VjMWQzYzg2YXJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCBAtkBTBQm+M3AGAs3ZyOJlk5OKwyCWyPWyNDij6I/C8qJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggxFmltW3/m8M6mO6IHdLc2O43ZcB+xrjdFx8coEBJuQKiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggY/rlXZzpvQy6GSBd7aX95QPu40au4h0cPC07dyT6RJN0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQDCrfiYw/DmqYfACAjJDoI360sSX6T0HM1RlTihfQqD3zYE00tkDmWyXD62J16Brns5NHjcQKfNdokqZORUsxQM=</c2pa:manifest></metadata>
+<style>
+  :root {
+    --fg: #1B2233; --muted: #5B6577; --rule: #C8CDD8; --dim: #B9C0CD;
+    --signal: #C2410C; --accent: #A16207;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --fg: #E9E4DA; --muted: #8A94A6; --rule: #2E3646; --dim: #3D465A;
+      --signal: #FB923C; --accent: #FDE047;
+    }
+  }
+
+  .name { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+           font-size: 60px; font-weight: 600; letter-spacing: -0.6px; fill: var(--fg); }
+  .role { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+           font-size: 22px; fill: var(--fg); }
+  .sub  { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+           font-size: 15px; fill: var(--muted); }
+  .org  { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+           font-size: 15px; font-weight: 600; fill: var(--fg); }
+  .year, .note { font-family: ui-monospace, "SF Mono", Menlo, Consolas, monospace; }
+  .year { font-size: 11px; fill: var(--muted); }
+  .note { font-size: 11.5px; fill: var(--signal); }
+  .note.accent { fill: var(--accent); }
+  .rule  { stroke: var(--rule); stroke-width: 1.5; }
+  .track { stroke: var(--rule); stroke-width: 2; fill: none; }
+  .dim   { fill: var(--dim); }
+  .spark { fill: none; stroke-width: 1.6; stroke-linecap: round; }
+  .lead  { stroke: var(--signal); stroke-width: 2; fill: none; stroke-dasharray: 820.0; }
+  .gtrack { fill: var(--rule); opacity: .5; }
+  .gfill  { fill: var(--signal); }
+
+  .anim { animation-duration: 12.0s; animation-iteration-count: infinite; animation-timing-function: linear; }
+  .trace { animation-name: trace; }
+  .sig   { animation-name: signal; offset-path: path('M 80.0 236.0 L 900.0 236.0'); }
+  .tail  { animation-name: comet;  offset-path: path('M 80.0 236.0 L 900.0 236.0'); }
+  .gauge { animation-name: gauge; }
+  .ovf   { animation-name: overflow; fill: none; stroke: var(--signal); stroke-width: 2; }
+  .aIn  { animation: auraInner 1.05s ease-in-out infinite; fill: var(--signal); }
+  .aOut { animation: auraOuter 2.10s ease-in-out infinite; fill: var(--signal); }
+  .core { animation: core 1.05s ease-in-out infinite; fill: var(--signal); }
+  .shim { animation: shimmer 0.8s ease-in-out infinite; fill: var(--signal); }
+  .s0 { animation-delay: 0.0s; }
+  .s1 { animation-delay: 0.13s; }
+  .s2 { animation-delay: 0.26s; }
+  .s3 { animation-delay: 0.39s; }
+  .s4 { animation-delay: 0.52s; }
+  .l0 { animation-name: lit0; }
+  .n0 { animation-name: note0; }
+  .k0_0 { animation-name: spk0_0; stroke-dasharray: 10.1; }
+  .k0_1 { animation-name: spk0_1; stroke-dasharray: 17.9; }
+  .k0_2 { animation-name: spk0_2; stroke-dasharray: 12.1; }
+  .k0_3 { animation-name: spk0_3; stroke-dasharray: 13.8; }
+  .k0_4 { animation-name: spk0_4; stroke-dasharray: 14.8; }
+  .k0_5 { animation-name: spk0_5; stroke-dasharray: 12.5; }
+  .k0_6 { animation-name: spk0_6; stroke-dasharray: 21.5; }
+  .l1 { animation-name: lit1; }
+  .n1 { animation-name: note1; }
+  .k1_0 { animation-name: spk1_0; stroke-dasharray: 17.6; }
+  .k1_1 { animation-name: spk1_1; stroke-dasharray: 19.9; }
+  .k1_2 { animation-name: spk1_2; stroke-dasharray: 15.6; }
+  .k1_3 { animation-name: spk1_3; stroke-dasharray: 12.3; }
+  .k1_4 { animation-name: spk1_4; stroke-dasharray: 18.6; }
+  .k1_5 { animation-name: spk1_5; stroke-dasharray: 16.5; }
+  .k1_6 { animation-name: spk1_6; stroke-dasharray: 10.1; }
+  .l2 { animation-name: lit2; }
+  .n2 { animation-name: note2; }
+  .k2_0 { animation-name: spk2_0; stroke-dasharray: 12.8; }
+  .k2_1 { animation-name: spk2_1; stroke-dasharray: 15.6; }
+  .k2_2 { animation-name: spk2_2; stroke-dasharray: 18.9; }
+  .k2_3 { animation-name: spk2_3; stroke-dasharray: 23.0; }
+  .k2_4 { animation-name: spk2_4; stroke-dasharray: 19.2; }
+  .k2_5 { animation-name: spk2_5; stroke-dasharray: 12.1; }
+  .k2_6 { animation-name: spk2_6; stroke-dasharray: 14.1; }
+  .l3 { animation-name: lit3; }
+  .n3 { animation-name: note3; }
+  .k3_0 { animation-name: spk3_0; stroke-dasharray: 17.3; }
+  .k3_1 { animation-name: spk3_1; stroke-dasharray: 12.3; }
+  .k3_2 { animation-name: spk3_2; stroke-dasharray: 21.8; }
+  .k3_3 { animation-name: spk3_3; stroke-dasharray: 13.6; }
+  .k3_4 { animation-name: spk3_4; stroke-dasharray: 10.3; }
+  .k3_5 { animation-name: spk3_5; stroke-dasharray: 22.6; }
+  .k3_6 { animation-name: spk3_6; stroke-dasharray: 18.6; }
+  .l4 { animation-name: lit4; }
+  .n4 { animation-name: note4; }
+  .k4_0 { animation-name: spk4_0; stroke-dasharray: 19.5; }
+  .k4_1 { animation-name: spk4_1; stroke-dasharray: 19.6; }
+  .k4_2 { animation-name: spk4_2; stroke-dasharray: 12.6; }
+  .k4_3 { animation-name: spk4_3; stroke-dasharray: 13.1; }
+  .k4_4 { animation-name: spk4_4; stroke-dasharray: 23.2; }
+  .k4_5 { animation-name: spk4_5; stroke-dasharray: 15.1; }
+  .k4_6 { animation-name: spk4_6; stroke-dasharray: 22.4; }
+  .l5 { animation-name: lit5; }
+  .n5 { animation-name: note5; }
+  .k5_0 { animation-name: spk5_0; stroke-dasharray: 15.5; }
+  .k5_1 { animation-name: spk5_1; stroke-dasharray: 10.8; }
+  .k5_2 { animation-name: spk5_2; stroke-dasharray: 18.2; }
+  .k5_3 { animation-name: spk5_3; stroke-dasharray: 20.2; }
+  .k5_4 { animation-name: spk5_4; stroke-dasharray: 12.2; }
+  .k5_5 { animation-name: spk5_5; stroke-dasharray: 13.3; }
+  .k5_6 { animation-name: spk5_6; stroke-dasharray: 20.0; }
+
+  @media (prefers-reduced-motion: reduce) {
+    .anim, .aIn, .aOut, .core, .shim { animation: none; opacity: 1; }
+    .sig, .tail, .spark, .ovf, .shim { opacity: 0; }
+    .lead { stroke-dashoffset: 0; }
+    .gauge { width: 150px; }
+  }
+
+@keyframes trace {
+  0%, 2.917% { stroke-dashoffset: 820.0; }
+  52.917%, 85.833% { stroke-dashoffset: 0; }
+  94.167%, 100% { stroke-dashoffset: 820.0; }
+}
+@keyframes signal {
+  0%, 2.917% { offset-distance: 0%; opacity: 0; }
+  3.917% { opacity: 1; }
+  52.917% { offset-distance: 100%; opacity: 1; }
+  57.083%, 100% { offset-distance: 100%; opacity: 0; }
+}
+@keyframes comet {
+  0%, 2.917% { offset-distance: 0%; opacity: 0; }
+  5.417% { opacity: .5; }
+  54.417% { offset-distance: 100%; opacity: .5; }
+  59.167%, 100% { offset-distance: 100%; opacity: 0; }
+}
+@keyframes auraInner { 0%,100% { r: 7.5; opacity: .60; } 50% { r: 10.5; opacity: .28; } }
+@keyframes auraOuter { 0%,100% { r: 12; opacity: .22; } 50% { r: 21; opacity: .04; } }
+@keyframes core { 0%,100% { r: 4.6; } 50% { r: 5.8; } }
+@keyframes shimmer {
+  0%,100% { transform: translateY(0) scaleY(1); opacity: .45; }
+  50%     { transform: translateY(-2px) scaleY(1.35); opacity: .12; }
+}
+@keyframes gauge {
+  0%, 2.917% { width: 0px; }
+  52.917%, 85.833% { width: 150px; }
+  94.167%, 100% { width: 0px; }
+}
+@keyframes overflow {
+  0%, 52.917% { opacity: 0; r: 4; }
+  53.75% { opacity: .9; }
+  60.833%, 100% { opacity: 0; r: 34; }
+}
+@keyframes lit0 {
+  0%, 2.917% { opacity: 0; }
+  5.25%, 85.833% { opacity: 1; }
+  94.167%, 100% { opacity: 0; }
+}
+@keyframes note0 {
+  0%, 4.167% { opacity: 0; }
+  7.5%, 85.833% { opacity: 1; }
+  94.167%, 100% { opacity: 0; }
+}
+@keyframes spk0_0 {
+  0%, 3.317% { stroke-dashoffset: 10.1; opacity: 0; }
+  3.483% { opacity: .95; }
+  5.817% { stroke-dashoffset: -10.1; opacity: 0; }
+  5.9%, 100% { opacity: 0; }
+}
+@keyframes spk0_1 {
+  0%, 2.942% { stroke-dashoffset: 17.9; opacity: 0; }
+  3.108% { opacity: .95; }
+  5.442% { stroke-dashoffset: -17.9; opacity: 0; }
+  5.525%, 100% { opacity: 0; }
+}
+@keyframes spk0_2 {
+  0%, 3.233% { stroke-dashoffset: 12.1; opacity: 0; }
+  3.4% { opacity: .95; }
+  5.733% { stroke-dashoffset: -12.1; opacity: 0; }
+  5.817%, 100% { opacity: 0; }
+}
+@keyframes spk0_3 {
+  0%, 3.383% { stroke-dashoffset: 13.8; opacity: 0; }
+  3.55% { opacity: .95; }
+  5.883% { stroke-dashoffset: -13.8; opacity: 0; }
+  5.967%, 100% { opacity: 0; }
+}
+@keyframes spk0_4 {
+  0%, 3.65% { stroke-dashoffset: 14.8; opacity: 0; }
+  3.817% { opacity: .95; }
+  6.15% { stroke-dashoffset: -14.8; opacity: 0; }
+  6.233%, 100% { opacity: 0; }
+}
+@keyframes spk0_5 {
+  0%, 3.025% { stroke-dashoffset: 12.5; opacity: 0; }
+  3.192% { opacity: .95; }
+  5.525% { stroke-dashoffset: -12.5; opacity: 0; }
+  5.608%, 100% { opacity: 0; }
+}
+@keyframes spk0_6 {
+  0%, 3.05% { stroke-dashoffset: 21.5; opacity: 0; }
+  3.217% { opacity: .95; }
+  5.55% { stroke-dashoffset: -21.5; opacity: 0; }
+  5.633%, 100% { opacity: 0; }
+}
+@keyframes lit1 {
+  0%, 12.917% { opacity: 0; }
+  15.25%, 85.833% { opacity: 1; }
+  94.167%, 100% { opacity: 0; }
+}
+@keyframes note1 {
+  0%, 14.167% { opacity: 0; }
+  17.5%, 85.833% { opacity: 1; }
+  94.167%, 100% { opacity: 0; }
+}
+@keyframes spk1_0 {
+  0%, 12.967% { stroke-dashoffset: 17.6; opacity: 0; }
+  13.133% { opacity: .95; }
+  15.467% { stroke-dashoffset: -17.6; opacity: 0; }
+  15.55%, 100% { opacity: 0; }
+}
+@keyframes spk1_1 {
+  0%, 13.233% { stroke-dashoffset: 19.9; opacity: 0; }
+  13.4% { opacity: .95; }
+  15.733% { stroke-dashoffset: -19.9; opacity: 0; }
+  15.817%, 100% { opacity: 0; }
+}
+@keyframes spk1_2 {
+  0%, 13.142% { stroke-dashoffset: 15.6; opacity: 0; }
+  13.308% { opacity: .95; }
+  15.642% { stroke-dashoffset: -15.6; opacity: 0; }
+  15.725%, 100% { opacity: 0; }
+}
+@keyframes spk1_3 {
+  0%, 13.35% { stroke-dashoffset: 12.3; opacity: 0; }
+  13.517% { opacity: .95; }
+  15.85% { stroke-dashoffset: -12.3; opacity: 0; }
+  15.933%, 100% { opacity: 0; }
+}
+@keyframes spk1_4 {
+  0%, 13.133% { stroke-dashoffset: 18.6; opacity: 0; }
+  13.3% { opacity: .95; }
+  15.633% { stroke-dashoffset: -18.6; opacity: 0; }
+  15.717%, 100% { opacity: 0; }
+}
+@keyframes spk1_5 {
+  0%, 13.483% { stroke-dashoffset: 16.5; opacity: 0; }
+  13.65% { opacity: .95; }
+  15.983% { stroke-dashoffset: -16.5; opacity: 0; }
+  16.067%, 100% { opacity: 0; }
+}
+@keyframes spk1_6 {
+  0%, 13.417% { stroke-dashoffset: 10.1; opacity: 0; }
+  13.583% { opacity: .95; }
+  15.917% { stroke-dashoffset: -10.1; opacity: 0; }
+  16.0%, 100% { opacity: 0; }
+}
+@keyframes lit2 {
+  0%, 22.917% { opacity: 0; }
+  25.25%, 85.833% { opacity: 1; }
+  94.167%, 100% { opacity: 0; }
+}
+@keyframes note2 {
+  0%, 24.167% { opacity: 0; }
+  27.5%, 85.833% { opacity: 1; }
+  94.167%, 100% { opacity: 0; }
+}
+@keyframes spk2_0 {
+  0%, 23.442% { stroke-dashoffset: 12.8; opacity: 0; }
+  23.608% { opacity: .95; }
+  25.942% { stroke-dashoffset: -12.8; opacity: 0; }
+  26.025%, 100% { opacity: 0; }
+}
+@keyframes spk2_1 {
+  0%, 23.55% { stroke-dashoffset: 15.6; opacity: 0; }
+  23.717% { opacity: .95; }
+  26.05% { stroke-dashoffset: -15.6; opacity: 0; }
+  26.133%, 100% { opacity: 0; }
+}
+@keyframes spk2_2 {
+  0%, 22.958% { stroke-dashoffset: 18.9; opacity: 0; }
+  23.125% { opacity: .95; }
+  25.458% { stroke-dashoffset: -18.9; opacity: 0; }
+  25.542%, 100% { opacity: 0; }
+}
+@keyframes spk2_3 {
+  0%, 23.533% { stroke-dashoffset: 23.0; opacity: 0; }
+  23.7% { opacity: .95; }
+  26.033% { stroke-dashoffset: -23.0; opacity: 0; }
+  26.117%, 100% { opacity: 0; }
+}
+@keyframes spk2_4 {
+  0%, 22.933% { stroke-dashoffset: 19.2; opacity: 0; }
+  23.1% { opacity: .95; }
+  25.433% { stroke-dashoffset: -19.2; opacity: 0; }
+  25.517%, 100% { opacity: 0; }
+}
+@keyframes spk2_5 {
+  0%, 22.958% { stroke-dashoffset: 12.1; opacity: 0; }
+  23.125% { opacity: .95; }
+  25.458% { stroke-dashoffset: -12.1; opacity: 0; }
+  25.542%, 100% { opacity: 0; }
+}
+@keyframes spk2_6 {
+  0%, 23.208% { stroke-dashoffset: 14.1; opacity: 0; }
+  23.375% { opacity: .95; }
+  25.708% { stroke-dashoffset: -14.1; opacity: 0; }
+  25.792%, 100% { opacity: 0; }
+}
+@keyframes lit3 {
+  0%, 32.917% { opacity: 0; }
+  35.25%, 85.833% { opacity: 1; }
+  94.167%, 100% { opacity: 0; }
+}
+@keyframes note3 {
+  0%, 34.167% { opacity: 0; }
+  37.5%, 85.833% { opacity: 1; }
+  94.167%, 100% { opacity: 0; }
+}
+@keyframes spk3_0 {
+  0%, 33.583% { stroke-dashoffset: 17.3; opacity: 0; }
+  33.75% { opacity: .95; }
+  36.083% { stroke-dashoffset: -17.3; opacity: 0; }
+  36.167%, 100% { opacity: 0; }
+}
+@keyframes spk3_1 {
+  0%, 33.225% { stroke-dashoffset: 12.3; opacity: 0; }
+  33.392% { opacity: .95; }
+  35.725% { stroke-dashoffset: -12.3; opacity: 0; }
+  35.808%, 100% { opacity: 0; }
+}
+@keyframes spk3_2 {
+  0%, 33.033% { stroke-dashoffset: 21.8; opacity: 0; }
+  33.2% { opacity: .95; }
+  35.533% { stroke-dashoffset: -21.8; opacity: 0; }
+  35.617%, 100% { opacity: 0; }
+}
+@keyframes spk3_3 {
+  0%, 33.283% { stroke-dashoffset: 13.6; opacity: 0; }
+  33.45% { opacity: .95; }
+  35.783% { stroke-dashoffset: -13.6; opacity: 0; }
+  35.867%, 100% { opacity: 0; }
+}
+@keyframes spk3_4 {
+  0%, 33.233% { stroke-dashoffset: 10.3; opacity: 0; }
+  33.4% { opacity: .95; }
+  35.733% { stroke-dashoffset: -10.3; opacity: 0; }
+  35.817%, 100% { opacity: 0; }
+}
+@keyframes spk3_5 {
+  0%, 33.433% { stroke-dashoffset: 22.6; opacity: 0; }
+  33.6% { opacity: .95; }
+  35.933% { stroke-dashoffset: -22.6; opacity: 0; }
+  36.017%, 100% { opacity: 0; }
+}
+@keyframes spk3_6 {
+  0%, 32.958% { stroke-dashoffset: 18.6; opacity: 0; }
+  33.125% { opacity: .95; }
+  35.458% { stroke-dashoffset: -18.6; opacity: 0; }
+  35.542%, 100% { opacity: 0; }
+}
+@keyframes lit4 {
+  0%, 42.917% { opacity: 0; }
+  45.25%, 85.833% { opacity: 1; }
+  94.167%, 100% { opacity: 0; }
+}
+@keyframes note4 {
+  0%, 44.167% { opacity: 0; }
+  47.5%, 85.833% { opacity: 1; }
+  94.167%, 100% { opacity: 0; }
+}
+@keyframes spk4_0 {
+  0%, 43.208% { stroke-dashoffset: 19.5; opacity: 0; }
+  43.375% { opacity: .95; }
+  45.708% { stroke-dashoffset: -19.5; opacity: 0; }
+  45.792%, 100% { opacity: 0; }
+}
+@keyframes spk4_1 {
+  0%, 42.967% { stroke-dashoffset: 19.6; opacity: 0; }
+  43.133% { opacity: .95; }
+  45.467% { stroke-dashoffset: -19.6; opacity: 0; }
+  45.55%, 100% { opacity: 0; }
+}
+@keyframes spk4_2 {
+  0%, 43.175% { stroke-dashoffset: 12.6; opacity: 0; }
+  43.342% { opacity: .95; }
+  45.675% { stroke-dashoffset: -12.6; opacity: 0; }
+  45.758%, 100% { opacity: 0; }
+}
+@keyframes spk4_3 {
+  0%, 42.992% { stroke-dashoffset: 13.1; opacity: 0; }
+  43.158% { opacity: .95; }
+  45.492% { stroke-dashoffset: -13.1; opacity: 0; }
+  45.575%, 100% { opacity: 0; }
+}
+@keyframes spk4_4 {
+  0%, 43.375% { stroke-dashoffset: 23.2; opacity: 0; }
+  43.542% { opacity: .95; }
+  45.875% { stroke-dashoffset: -23.2; opacity: 0; }
+  45.958%, 100% { opacity: 0; }
+}
+@keyframes spk4_5 {
+  0%, 43.192% { stroke-dashoffset: 15.1; opacity: 0; }
+  43.358% { opacity: .95; }
+  45.692% { stroke-dashoffset: -15.1; opacity: 0; }
+  45.775%, 100% { opacity: 0; }
+}
+@keyframes spk4_6 {
+  0%, 43.267% { stroke-dashoffset: 22.4; opacity: 0; }
+  43.433% { opacity: .95; }
+  45.767% { stroke-dashoffset: -22.4; opacity: 0; }
+  45.85%, 100% { opacity: 0; }
+}
+@keyframes lit5 {
+  0%, 52.917% { opacity: 0; }
+  55.25%, 85.833% { opacity: 1; }
+  94.167%, 100% { opacity: 0; }
+}
+@keyframes note5 {
+  0%, 54.167% { opacity: 0; }
+  57.5%, 85.833% { opacity: 1; }
+  94.167%, 100% { opacity: 0; }
+}
+@keyframes spk5_0 {
+  0%, 53.117% { stroke-dashoffset: 15.5; opacity: 0; }
+  53.283% { opacity: .95; }
+  55.617% { stroke-dashoffset: -15.5; opacity: 0; }
+  55.7%, 100% { opacity: 0; }
+}
+@keyframes spk5_1 {
+  0%, 53.633% { stroke-dashoffset: 10.8; opacity: 0; }
+  53.8% { opacity: .95; }
+  56.133% { stroke-dashoffset: -10.8; opacity: 0; }
+  56.217%, 100% { opacity: 0; }
+}
+@keyframes spk5_2 {
+  0%, 52.933% { stroke-dashoffset: 18.2; opacity: 0; }
+  53.1% { opacity: .95; }
+  55.433% { stroke-dashoffset: -18.2; opacity: 0; }
+  55.517%, 100% { opacity: 0; }
+}
+@keyframes spk5_3 {
+  0%, 53.442% { stroke-dashoffset: 20.2; opacity: 0; }
+  53.608% { opacity: .95; }
+  55.942% { stroke-dashoffset: -20.2; opacity: 0; }
+  56.025%, 100% { opacity: 0; }
+}
+@keyframes spk5_4 {
+  0%, 53.492% { stroke-dashoffset: 12.2; opacity: 0; }
+  53.658% { opacity: .95; }
+  55.992% { stroke-dashoffset: -12.2; opacity: 0; }
+  56.075%, 100% { opacity: 0; }
+}
+@keyframes spk5_5 {
+  0%, 53.083% { stroke-dashoffset: 13.3; opacity: 0; }
+  53.25% { opacity: .95; }
+  55.583% { stroke-dashoffset: -13.3; opacity: 0; }
+  55.667%, 100% { opacity: 0; }
+}
+@keyframes spk5_6 {
+  0%, 53.525% { stroke-dashoffset: 20.0; opacity: 0; }
+  53.692% { opacity: .95; }
+  56.025% { stroke-dashoffset: -20.0; opacity: 0; }
+  56.108%, 100% { opacity: 0; }
+}
+</style>
+
+  <defs>
+    <linearGradient id="tailgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="var(--signal)" stop-opacity="0"/>
+      <stop offset="100%" stop-color="var(--signal)" stop-opacity="1"/>
+    </linearGradient>
+  </defs>
+
+  <text class="name" x="44" y="92">Carlos Pinto</text>
+  <line class="rule" x1="46" y1="114" x2="340" y2="114"/>
+  <text class="role" x="44" y="146">CTO and AI platform architect</text>
+  <text class="sub" x="44" y="174">Sixteen years taking AI, SaaS and cloud systems from zero to production</text>
+
+  <rect class="gtrack" x="750" y="86" width="150" height="4" rx="2"/>
+  <rect class="gfill anim gauge" x="750" y="86" width="0" height="4" rx="2"/>
+  <circle class="anim ovf" cx="900" cy="88" r="4"/>
+
+  <line class="track" x1="80.0" y1="236.0" x2="900.0" y2="236.0"/>
+  <line class="lead anim trace" x1="80.0" y1="236.0" x2="900.0" y2="236.0"/>
+  <g>
+    <text class="note anim n0" x="80.0" y="204.0" text-anchor="middle">device ML and speech</text>
+    <line class="spark anim k0_0" x1="77.1" y1="246.6" x2="74.4" y2="256.3" stroke="var(--signal)"/>
+    <line class="spark anim k0_1" x1="71.2" y1="238.6" x2="54.0" y2="243.6" stroke="var(--signal)"/>
+    <line class="spark anim k0_2" x1="72.7" y1="230.4" x2="63.1" y2="223.1" stroke="var(--signal)"/>
+    <line class="spark anim k0_3" x1="81.8" y1="226.8" x2="84.5" y2="213.3" stroke="var(--signal)"/>
+    <line class="spark anim k0_4" x1="89.9" y1="231.7" x2="103.5" y2="225.9" stroke="var(--signal)"/>
+    <line class="spark anim k0_5" x1="91.6" y1="235.8" x2="104.1" y2="235.7" stroke="var(--signal)"/>
+    <line class="spark anim k0_6" x1="86.0" y1="243.9" x2="98.9" y2="261.1" stroke="var(--signal)"/>
+    <circle class="dim" cx="80.0" cy="236.0" r="6"/>
+    <circle class="anim l0" cx="80.0" cy="236.0" r="6" fill="var(--signal)"/>
+    <text class="org" x="80.0" y="266.0" text-anchor="middle">Amazon</text>
+    <text class="year" x="80.0" y="284.0" text-anchor="middle">2010</text>
+  </g>
+  <g>
+    <text class="note anim n1" x="244.0" y="204.0" text-anchor="middle">100M+ users</text>
+    <line class="spark anim k1_0" x1="235.6" y1="230.4" x2="221.0" y2="220.6" stroke="var(--signal)"/>
+    <line class="spark anim k1_1" x1="240.2" y1="227.2" x2="232.3" y2="208.9" stroke="var(--signal)"/>
+    <line class="spark anim k1_2" x1="250.4" y1="227.3" x2="259.6" y2="214.8" stroke="var(--signal)"/>
+    <line class="spark anim k1_3" x1="254.8" y1="238.5" x2="266.8" y2="241.3" stroke="var(--signal)"/>
+    <line class="spark anim k1_4" x1="250.5" y1="245.6" x2="260.9" y2="261.0" stroke="var(--signal)"/>
+    <line class="spark anim k1_5" x1="239.1" y1="243.9" x2="230.3" y2="258.0" stroke="var(--signal)"/>
+    <line class="spark anim k1_6" x1="235.2" y1="241.7" x2="226.8" y2="247.2" stroke="var(--signal)"/>
+    <circle class="dim" cx="244.0" cy="236.0" r="6"/>
+    <circle class="anim l1" cx="244.0" cy="236.0" r="6" fill="var(--signal)"/>
+    <text class="org" x="244.0" y="266.0" text-anchor="middle">Google</text>
+    <text class="year" x="244.0" y="284.0" text-anchor="middle">2012</text>
+  </g>
+  <g>
+    <text class="note anim n2" x="408.0" y="204.0" text-anchor="middle">R&amp;D infrastructure</text>
+    <line class="spark anim k2_0" x1="409.5" y1="224.5" x2="411.2" y2="211.8" stroke="var(--signal)"/>
+    <line class="spark anim k2_1" x1="417.3" y1="230.6" x2="430.8" y2="222.7" stroke="var(--signal)"/>
+    <line class="spark anim k2_2" x1="416.8" y1="241.6" x2="432.8" y2="251.7" stroke="var(--signal)"/>
+    <line class="spark anim k2_3" x1="410.7" y1="246.6" x2="416.2" y2="268.9" stroke="var(--signal)"/>
+    <line class="spark anim k2_4" x1="403.9" y1="245.3" x2="396.0" y2="262.8" stroke="var(--signal)"/>
+    <line class="spark anim k2_5" x1="398.6" y1="237.5" x2="386.6" y2="239.3" stroke="var(--signal)"/>
+    <line class="spark anim k2_6" x1="402.3" y1="228.6" x2="393.7" y2="217.4" stroke="var(--signal)"/>
+    <circle class="dim" cx="408.0" cy="236.0" r="6"/>
+    <circle class="anim l2" cx="408.0" cy="236.0" r="6" fill="var(--signal)"/>
+    <text class="org" x="408.0" y="266.0" text-anchor="middle">NASA</text>
+    <text class="year" x="408.0" y="284.0" text-anchor="middle">2013</text>
+  </g>
+  <g>
+    <text class="note accent anim n3" x="572.0" y="204.0" text-anchor="middle">founded, acquired</text>
+    <line class="spark anim k3_0" x1="577.2" y1="227.1" x2="586.0" y2="212.1" stroke="var(--accent)"/>
+    <line class="spark anim k3_1" x1="583.2" y1="239.1" x2="595.0" y2="242.3" stroke="var(--accent)"/>
+    <line class="spark anim k3_2" x1="579.2" y1="245.2" x2="592.5" y2="262.3" stroke="var(--accent)"/>
+    <line class="spark anim k3_3" x1="570.7" y1="245.6" x2="568.9" y2="259.1" stroke="var(--accent)"/>
+    <line class="spark anim k3_4" x1="562.7" y1="239.0" x2="552.9" y2="242.1" stroke="var(--accent)"/>
+    <line class="spark anim k3_5" x1="562.4" y1="231.2" x2="542.2" y2="221.0" stroke="var(--accent)"/>
+    <line class="spark anim k3_6" x1="570.6" y1="225.2" x2="568.3" y2="206.8" stroke="var(--accent)"/>
+    <circle class="dim" cx="572.0" cy="236.0" r="6"/>
+    <circle class="anim l3" cx="572.0" cy="236.0" r="6" fill="var(--accent)"/>
+    <text class="org" x="572.0" y="266.0" text-anchor="middle">Neurona</text>
+    <text class="year" x="572.0" y="284.0" text-anchor="middle">2019</text>
+  </g>
+  <g>
+    <text class="note anim n4" x="736.0" y="204.0" text-anchor="middle">7,000-person org</text>
+    <line class="spark anim k4_0" x1="746.3" y1="230.7" x2="763.7" y2="221.7" stroke="var(--signal)"/>
+    <line class="spark anim k4_1" x1="745.1" y1="237.9" x2="764.2" y2="242.0" stroke="var(--signal)"/>
+    <line class="spark anim k4_2" x1="741.8" y1="243.7" x2="749.5" y2="253.8" stroke="var(--signal)"/>
+    <line class="spark anim k4_3" x1="733.9" y1="244.7" x2="730.7" y2="257.5" stroke="var(--signal)"/>
+    <line class="spark anim k4_4" x1="727.2" y1="238.3" x2="704.8" y2="244.2" stroke="var(--signal)"/>
+    <line class="spark anim k4_5" x1="727.5" y1="231.2" x2="714.4" y2="223.7" stroke="var(--signal)"/>
+    <line class="spark anim k4_6" x1="734.1" y1="224.6" x2="730.3" y2="202.6" stroke="var(--signal)"/>
+    <circle class="dim" cx="736.0" cy="236.0" r="6"/>
+    <circle class="anim l4" cx="736.0" cy="236.0" r="6" fill="var(--signal)"/>
+    <text class="org" x="736.0" y="266.0" text-anchor="middle">Datacom</text>
+    <text class="year" x="736.0" y="284.0" text-anchor="middle">2022</text>
+  </g>
+  <g>
+    <text class="note anim n5" x="900.0" y="204.0" text-anchor="middle">building now</text>
+    <line class="spark anim k5_0" x1="891.2" y1="239.0" x2="876.6" y2="244.1" stroke="var(--signal)"/>
+    <line class="spark anim k5_1" x1="894.7" y1="228.1" x2="888.7" y2="219.1" stroke="var(--signal)"/>
+    <line class="spark anim k5_2" x1="901.3" y1="226.7" x2="903.8" y2="208.7" stroke="var(--signal)"/>
+    <line class="spark anim k5_3" x1="910.3" y1="229.9" x2="927.6" y2="219.7" stroke="var(--signal)"/>
+    <line class="spark anim k5_4" x1="909.9" y1="238.1" x2="921.8" y2="240.7" stroke="var(--signal)"/>
+    <line class="spark anim k5_5" x1="903.4" y1="246.8" x2="907.5" y2="259.5" stroke="var(--signal)"/>
+    <line class="spark anim k5_6" x1="891.9" y1="244.8" x2="878.3" y2="259.5" stroke="var(--signal)"/>
+    <circle class="dim" cx="900.0" cy="236.0" r="6"/>
+    <circle class="anim l5" cx="900.0" cy="236.0" r="6" fill="var(--signal)"/>
+    <text class="org" x="900.0" y="266.0" text-anchor="middle">Apivo</text>
+    <text class="year" x="900.0" y="284.0" text-anchor="middle">2026</text>
+  </g>
+
+  <g class="anim tail">
+    <rect x="-64" y="-2.2" width="64" height="4.4" rx="2.2" fill="url(#tailgrad)"/>
+  </g>
+  <g class="anim sig">
+    <circle class="aOut" r="12"/>
+    <circle class="aIn" r="7.5"/>
+    <g opacity=".8">
+    <rect class="shim s0" x="-9.0" y="-13" width="1.2" height="26" rx="0.6"/>
+    <rect class="shim s1" x="-4.5" y="-13" width="1.2" height="26" rx="0.6"/>
+    <rect class="shim s2" x="0.0" y="-13" width="1.2" height="26" rx="0.6"/>
+    <rect class="shim s3" x="4.5" y="-13" width="1.2" height="26" rx="0.6"/>
+    <rect class="shim s4" x="9.0" y="-13" width="1.2" height="26" rx="0.6"/>
+    </g>
+    <circle class="core" r="4.6"/>
+  </g>
+</svg>
