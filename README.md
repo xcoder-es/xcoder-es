@@ -124,8 +124,8 @@ CTO and AI platform architect with 15+ years building and scaling AI, SaaS and c
 ### 📈 GitHub stats
 
 <p align="left">
-  <img height="180" src="https://github-stats-extended.vercel.app/api?username=xcoder-es&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=prs_merged_percentage,prs_reviewed&custom_title=Carlos%20Pinto%20on%20GitHub" />
-  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xcoder-es&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+  <img height="380" src="https://github-stats-extended.vercel.app/api?username=xcoder-es&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&theme=tokyonight" />
+  <img height="380" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xcoder-es&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
 </p>
 
 Most of my commit activity lives in the Nomos organisation rather than in my personal repos:
@@ -135,6 +135,8 @@ Most of my commit activity lives in the Nomos organisation rather than in my per
     <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nomos-N4s&repo=nomos&theme=github_dark&hide_border=true" />
   </a>
 </p>
+
+
 
 <!--
   Cards served by github-stats-extended (MIT, active fork of github-readme-stats).
