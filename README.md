@@ -1,159 +1,164 @@
-<p align="center">
-  <img src="./assets/nomos-header.svg" alt="Carlos Pinto, CTO and AI platform architect" width="100%" />
-</p>
+<!--
+Carlos Pinto / xcoder-es
+Original visual assets: assets/profile/. Corrected career animation: assets/nomos-header*.svg.
+Current appointments are concurrent: Voomverse, S.L. CTO and Apivo Fractional CTO, both 2026–present.
+FirstLook is private. No private screenshots, credentials, deployment URLs or repository badges.
+Public card rank stays live; include_all_commits is intentionally not enabled.
+role expands eligible repository coverage, not private access or personal authorship.
+-->
 
 <p align="center">
-  <a href="https://github.com/Nomos-N4s/nomos"><img src="https://img.shields.io/badge/Nomos-Lean%204%20verified-8A6E12?style=flat-square" /></a>
-  <img src="https://img.shields.io/badge/Madrid,%20ES-open%20to%20relocation-5B6577?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Founding%20CTO%20roles-1B2233?style=flat-square" />
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/hero-mobile.svg" />
+    <img src="./assets/profile/hero.svg" width="100%" alt="Carlos Pinto. CTO by role. Builder by default. Building FirstLook, shaping Apivo, exploring Nomos." />
+  </picture>
 </p>
 
----
-
-CTO and AI platform architect with 15+ years building and scaling AI, SaaS and cloud-native systems across fintech, enterprise software and consumer technology.
-
-- 🏛️ Led group-wide AI adoption across a **7,000-person** technology organisation (Datacom / Datapay)
-- 🚀 Founded and **exited** an AI-first lending platform as CTO (Neurona Technologies), eight-figure acquisition
-- 🔍 Shipped ML and Responsible AI systems at **Google** serving **100M+ users**; earlier built the ML and speech work at **Amazon** that fed into the tech behind Alexa
-- 🛰️ Author of **[Nomos](https://github.com/Nomos-N4s/nomos)**, an open-source formal framework for bounded autonomy in AI systems, with Lean 4 verified theorems and 12 of 12 formal predictions passing
-- 🏗️ Currently technical co-founder and CTO at **Apivo**, architecting independently launchable services designed to interconnect into one ecosystem
-
-<details>
-<summary><b>Career at a glance</b></summary>
-
-<br />
-
-| Years | Role | Where |
-|---|---|---|
-| 2026 – now | Co-Founder & CTO | Apivo |
-| 2023 – 2026 | Senior AI Architect, AI strategy | Datacom / Datapay |
-| 2022 – 2023 | Senior Solutions Architect | Datacom |
-| 2019 – 2021 | Founding CTO | Neurona Technologies (acquired) |
-| 2017 – 2019 | Senior Lead, Service Engineering | Hitachi Vantara |
-| 2014 – 2016 | Senior Staff SWE, Responsible AI | Google Research |
-| 2013 – 2014 | Senior Staff SWE, ML & RecSys | Google |
-| 2013 | Database Engineer | NASA (contract) |
-| 2012 – 2013 | SWE III, Google Cloud Platform | Google |
-| 2010 – 2012 | Principal SDE → Senior SDM | Amazon |
-
-</details>
-
----
-
-### 🛠️ Stack
-
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lean%204-8A6E12?style=flat-square" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+<p align="center">
+  <a href="#on-my-desk"><samp>ON MY DESK</samp></a>
+  &nbsp; / &nbsp;
+  <a href="#the-toolbox"><samp>TOOLBOX</samp></a>
+  &nbsp; / &nbsp;
+  <a href="#the-backstory"><samp>BACKSTORY</samp></a>
+  &nbsp; / &nbsp;
+  <a href="#say-hello"><samp>SAY HELLO ↗</samp></a>
 </p>
 
-**AI / ML**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG%20%26%20embeddings-5A45FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agentic%20systems-8A2BE2?style=flat-square" />
-  <img src="https://img.shields.io/badge/Evals%20%26%20guardrails-FF6F00?style=flat-square" />
-  <img src="https://img.shields.io/badge/MLOps-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-</p>
-
-**Orchestration & durable execution**
-<p>
-  <img src="https://img.shields.io/badge/Temporal.io-000000?style=flat-square&logo=temporal&logoColor=white" />
-  <img src="https://img.shields.io/badge/Event--driven%20architecture-4B5563?style=flat-square" />
-  <img src="https://img.shields.io/badge/Saga%20%26%20compensation-4B5563?style=flat-square" />
-  <img src="https://img.shields.io/badge/Long--running%20workflows-4B5563?style=flat-square" />
-</p>
-
-**Cloud & infrastructure**
-<p>
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
-</p>
-
-**Frontend & web**
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/MDX-1B1F24?style=flat-square&logo=mdx&logoColor=white" />
-</p>
-
-**Data**
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MS%20SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=flat-square&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
-</p>
-
-**Practice:** domain-driven design, architecture decision records, CI/CD, reliability engineering and BCDR, Responsible AI governance, regulated environments (fintech, lending, payroll compliance)
-
----
-
-### 🏗️ Featured work
-
-| Project | What it is |
-|---|---|
-| **[Nomos](https://github.com/Nomos-N4s/nomos)** | Open-source formal framework for self-governing AI: Neural Parliament, Ulysses Contracts, Identity Layer. Lean 4 verified theorems, 12 of 12 formal predictions passing, 93% test coverage, multi-arch images on GHCR, Apache-2.0 |
-| **Neurona Technologies** | Founded and led as CTO. AI-first fintech automating lending decisions across the Caribbean, LATAM and North America. Acquired, eight figures USD |
-| **Apivo** | Early-stage startup, co-founded and leading as CTO. Platform of independently launchable, revenue-generating services designed to interconnect |
-| **AI Payroll Assistant** (Datapay) | Production RAG assistant with document indexing, citation-led responses and guardrails on Azure. Supported 27% ARR growth in its first financial year |
-| **[policycheck_demo](https://github.com/xcoder-es/policycheck_demo)** | Python demo applying policy and governance checks to AI decisions |
-| **[media-cleaner-pro](https://github.com/xcoder-es/media-cleaner-pro)** | Rust utility, systems-level tooling |
-
----
-
-### 📈 GitHub stats
-
-<p align="left">
-  <img height="380" src="https://github-stats-extended.vercel.app/api?username=xcoder-es&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions%2Call_time_contribs&show_icons=true&theme=tokyonight" />
-  <img height="380" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xcoder-es&layout=compact&theme=github_dark&hide_border=true&langs_count=10" />
-</p>
-
-Most of my commit activity lives in the Nomos organisation rather than in my personal repos:
-
-<p align="left">
-  <a href="https://github.com/Nomos-N4s/nomos">
-    <img src="https://github-stats-extended.vercel.app/api/pin/?username=Nomos-N4s&repo=nomos&theme=github_dark&hide_border=true" />
+I'm Carlos — a CTO who still opens the editor. I build AI platforms, SaaS products and the engineering that makes them dependable.
+Currently CTO at Voomverse, S.L. and Fractional CTO at Apivo, both 2026–present. Based in Madrid. Still curious.
+On my desk
+<p align="center">
+  <a href="https://github.com/Voomverse/first-look-v2">
+    <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/firstlook-mobile.svg" />
+    <img src="./assets/profile/firstlook.svg" width="100%" alt="FirstLook — CTO at Voomverse, S.L., 2026–present. Quiet Lens design system, product engineering and platform foundations. Private repository; restricted access." />
+  </picture>
   </a>
 </p>
 
-
-
-<!--
-  Cards served by github-stats-extended (MIT, active fork of github-readme-stats).
-  Tweak them visually at https://github-stats-extended.vercel.app/frontend
--->
-
----
-
-### 🎓 Certifications
-
-Microsoft Certified: Azure Solutions Architect Expert · NVIDIA Inception Program Developer · AI2030 Global Fellow
-
----
-
-### 🤝 Let's connect
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/carlosalfredopinto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:capintobe@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://github.com/Nomos-N4s/nomos"><img src="./assets/profile/nomos.svg" width="390" alt="Nomos — open-source AI governance. Python implementation and Lean 4 protocol models. Explore the repository." /></a>
+  <a href="mailto:capintobe@gmail.com?subject=Let%27s%20talk%20Apivo"><img src="./assets/profile/apivo.svg" width="390" alt="Apivo — Fractional CTO, 2026–present. Independent services, connected ecosystem. Get in touch." /></a>
 </p>
+
+<sub>FirstLook is a private company build in active development. Nomos is open source: its Lean proofs cover protocol models, not formal verification of the Python implementation.</sub>
+<details>
+<summary><b>Under the hood</b> — the work behind the cards</summary>
+
+
+FirstLook · Voomverse, S.L.
+Leading and building across product architecture, hands-on implementation and platform engineering. Quiet Lens provides the brand-aware design system, React components rendered with Astro, light/dark themes and white-label tokens. Application work includes TypeScript, NestJS, PostgreSQL, shared API contracts, catalogue flows, workspace-scoped data and OpenFGA-backed authorization. Docker-based development, AWS infrastructure as code, automated verification, supply-chain checks and signed releases support delivery. Active development; not a claim that every capability is deployed to production.
+Apivo · Fractional CTO
+Technical direction, architecture and hands-on delivery for services designed to launch independently and connect into one ecosystem. Each service should stand on its own; the ecosystem is the longer game.
+Nomos · Open source
+A formal framework and Python reference implementation for governing autonomous agents through the Neural Parliament, Ulysses Contracts and Identity Layer. Lean 4–verified protocol models, a tested implementation and multi-architecture images on GHCR. Apache-2.0. Documentation · Releases.
+Smaller experiments
+policycheck_demo — policy and governance checks for AI decisions.
+media-cleaner-pro — a Rust systems utility.
+</details>
+
+The toolbox
+<p align="center">
+  <img src="./assets/profile/tool-python.svg" width="88" alt="Python" />
+  <img src="./assets/profile/tool-typescript.svg" width="88" alt="TypeScript" />
+  <img src="./assets/profile/tool-rust.svg" width="88" alt="Rust" />
+  <img src="./assets/profile/tool-go.svg" width="88" alt="Go" />
+  <img src="./assets/profile/tool-lean.svg" width="88" alt="Lean 4" />
+  <img src="./assets/profile/tool-react.svg" width="88" alt="React" />
+  <img src="./assets/profile/tool-postgres.svg" width="88" alt="PostgreSQL" />
+  <img src="./assets/profile/tool-aws.svg" width="88" alt="AWS" />
+</p>
+
+AI & systems · Product engineering · Cloud & developer experience
+<details>
+<summary><b>All the moving parts</b> — languages, platforms &amp; practice</summary>
+
+
+Area	Tools & approaches
+Languages	Python · TypeScript · Rust · Go · Lean 4 · SQL · Bash
+AI / ML	PyTorch · Azure OpenAI · RAG & embeddings · Agentic systems · Evals & guardrails · MLOps · Reinforcement learning
+Durable execution	Temporal · Event-driven architecture · Sagas & compensation · Long-running workflows
+Cloud & infrastructure	Azure · AWS · Google Cloud · Kubernetes · Docker · Vercel · Cloudflare · GitHub Actions
+Product	React · Astro · Node.js · NestJS · Streamlit · MDX
+Identity & access	Microsoft Entra ID · OpenFGA · Workspace-scoped authorization
+Data	PostgreSQL · MySQL · Microsoft SQL Server · Supabase · Neo4j · Vector databases · BigQuery
+Practice	Domain-driven design · Architecture decision records · CI/CD · Developer experience · Reliability · Business continuity & disaster recovery · Responsible AI governance
+
+
+Experience in regulated environments, including fintech, lending and payroll compliance.
+</details>
+
+The backstory
+Previously: Amazon · Google · NASA · Hitachi Vantara · Neurona · Datacom / Datapay.
+15+ years of building, learning, and occasionally discovering why the obvious solution wasn't.
+<details>
+<summary><b>Roll the career timeline</b> — roles, milestones &amp; a little animation</summary>
+
+
+<p align="center">
+  <picture>
+    <source media="(max-width: 600px)" srcset="./assets/nomos-header-mobile.svg" />
+    <img src="./assets/nomos-header.svg" width="100%" alt="Carlos Pinto's animated career history. Current concurrent appointments: CTO at Voomverse, S.L. and Fractional CTO at Apivo, both 2026–present. Earlier roles at Amazon, Google, NASA, Hitachi Vantara, Neurona Technologies and Datacom / Datapay." />
+  </picture>
+</p>
+
+When	Role	Where
+2026 – present	CTO	Voomverse, S.L.
+2026 – present	Fractional CTO	Apivo
+2023 – 2026	Senior AI Architect · AI strategy	Datacom / Datapay
+2022 – 2023	Senior Solutions Architect	Datacom
+2019 – 2021	Founding CTO	Neurona Technologies · acquired
+2017 – 2019	Senior Lead · Service Engineering	Hitachi Vantara
+2014 – 2016	Senior Staff SWE · Responsible AI	Google Research
+2013 – 2014	Senior Staff SWE · ML & RecSys	Google
+2013	Database Engineer · contract	NASA
+2012 – 2013	SWE III · Google Cloud Platform	Google
+2010 – 2012	Principal SDE → Senior SDM	Amazon
+
+
+A few milestones
+Led group-wide AI adoption across a 7,000-person technology organisation at Datacom / Datapay. Shipped ML and Responsible AI systems at Google serving 100M+ users. Founded and led Neurona Technologies as CTO through an eight-figure acquisition. Earlier ML and speech work at Amazon contributed to the technology behind Alexa.
+AI Payroll Assistant · Datapay
+Production RAG assistant with document indexing, citation-led responses and guardrails on Azure. Supported 27% ARR growth in its first financial year.
+Credentials & communities
+Microsoft Certified: Azure Solutions Architect Expert · NVIDIA Inception Program Developer · AI2030 Global Fellow
+</details>
+
+GitHub, in numbers
+Much of my current work lives in Voomverse, alongside Nomos. Private work isn't fully reflected in these public cards.
+<p align="center">
+  <a href="https://github.com/xcoder-es"><img src="https://github-stats-extended.vercel.app/api?username=xcoder-es&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;bg_color_light=F5F3EE&amp;bg_color_dark=121917&amp;title_color_light=42682F&amp;title_color_dark=C6EF95&amp;text_color_light=202824&amp;text_color_dark=F0F0E8&amp;icon_color_light=63518B&amp;icon_color_dark=CCBCEF&amp;border_color_light=D3D6CC&amp;border_color_dark=354139&amp;border_radius=16&amp;show_icons=true&amp;rank_icon=default&amp;card_width=495&amp;line_height=25&amp;text_bold=false&amp;custom_title=GitHub%20%2F%20the%20visible%20work&amp;ring_color_light=42682F&amp;ring_color_dark=C6EF95" width="390" alt="Carlos Pinto's live GitHub activity and letter rank. Publicly accessible data only." /></a>
+  <a href="https://github.com/xcoder-es?tab=repositories"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=xcoder-es&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;bg_color_light=F5F3EE&amp;bg_color_dark=121917&amp;title_color_light=42682F&amp;title_color_dark=C6EF95&amp;text_color_light=202824&amp;text_color_dark=F0F0E8&amp;icon_color_light=63518B&amp;icon_color_dark=CCBCEF&amp;border_color_light=D3D6CC&amp;border_color_dark=354139&amp;border_radius=16&amp;layout=compact&amp;card_width=495&amp;langs_count=8&amp;custom_title=Languages%20%2F%20repository%20mix" width="390" alt="Language mix across eligible repositories. Repository-wide usage, not a measure of individual proficiency." /></a>
+</p>
+
+<details>
+<summary><b>More numbers, fewer assumptions</b></summary>
+
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=xcoder-es&amp;role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&amp;theme_light=light_github&amp;theme_dark=dark_github&amp;bg_color_light=F5F3EE&amp;bg_color_dark=121917&amp;title_color_light=42682F&amp;title_color_dark=C6EF95&amp;text_color_light=202824&amp;text_color_dark=F0F0E8&amp;icon_color_light=63518B&amp;icon_color_dark=CCBCEF&amp;border_color_light=D3D6CC&amp;border_color_dark=354139&amp;border_radius=16&amp;show_icons=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented,contributions,all_time_contribs&amp;hide_rank=true&amp;card_width=495&amp;text_bold=false&amp;custom_title=A%20closer%20look" width="495" alt="Extended live GitHub statistics: reviews, discussions, merged pull requests and all-time contributions." />
+</p>
+
+<sub>Owner, organisation-member and collaborator repositories are included where accessible. Repository stars and language totals are not exclusively my individual work. Counters use different time windows; the rank is an activity formula, not an engineering assessment.</sub>
+</details>
+
+
+<a name="say-hello"></a>
+<p align="center">
+  <a href="mailto:capintobe@gmail.com">
+    <picture>
+    <source media="(max-width: 600px)" srcset="./assets/profile/hello-mobile.svg" />
+    <img src="./assets/profile/hello.svg" width="100%" alt="Have a good problem? Open to business, collaborations and interesting conversations. Not looking for a new role. Email Carlos." />
+  </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlosalfredopinto"><b>LinkedIn ↗</b></a>
+  &nbsp; / &nbsp;
+  <a href="mailto:capintobe@gmail.com"><b>Email ↗</b></a>
+  &nbsp; / &nbsp;
+  <a href="https://github.com/Nomos-N4s/nomos"><b>Talk code ↗</b></a>
+</p>
+
+<p align="center"><samp>Strong opinions. Loosely coupled.</samp></p>
