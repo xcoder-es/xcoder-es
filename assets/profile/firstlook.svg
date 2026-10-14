@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="258" viewBox="0 0 1200 258" role="img" aria-labelledby="title desc">
+<title id="title">FirstLook — CTO at Voomverse, S.L., 2026–present.</title>
+<desc id="desc">Leading and building FirstLook: Quiet Lens design system, product engineering, application architecture and platform foundations. Private repository; active development, not a claim of production completeness.</desc>
+<!-- Original editable vector artwork. No scripts, fonts, trackers or external assets. -->
+<style>
+:root { color-scheme: light dark; --bg:#F5F3EE; --panel:#EAE8E1; --ink:#202824; --muted:#58625C; --line:#D3D6CC; --mint:#42682F; --mint-bg:#DEEDCA; --lilac:#63518B; --lilac-bg:#E5DFF0; --peach:#884829; --peach-bg:#F3DFD1; --code:#1C2621; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#38443B; --code-green:#D1F798; --code-peach:#E9B391; --code-lilac:#C7B7EC; }
+@media(prefers-color-scheme:dark) { :root { --bg:#121917; --panel:#1A2320; --ink:#F0F0E8; --muted:#A9B5AD; --line:#354139; --mint:#C6EF95; --mint-bg:#293A23; --lilac:#CCBCEF; --lilac-bg:#2E293A; --peach:#EBB394; --peach-bg:#3C2D25; --code:#1B2520; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#405044; }}
+text { fill:var(--ink); font-family:Inter,Arial,Helvetica,sans-serif; }
+.mono { font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace; }
+.serif { font-family:Georgia,"Times New Roman",serif; }
+.muted { fill:var(--muted); }
+.mint { fill:var(--mint); }
+.lilac { fill:var(--lilac); }
+.peach { fill:var(--peach); }
+.fine { font-size:14px; letter-spacing:1.4px; }
+@media(prefers-reduced-motion:reduce) { .motion,.cursor,.blink { animation:none !important; } .cursor { opacity:1; } }
+
+
+.scan { stroke-dasharray:28 560; animation:scan 14s linear infinite; }
+@keyframes scan { to { stroke-dashoffset:-1176 } }
+@media(prefers-reduced-motion:reduce) { .scan {stroke-dasharray:none;opacity:.4} }
+</style>
+<rect x="1" y="1" width="1198" height="256" rx="20" fill="var(--bg)" stroke="var(--line)"/>
+<rect x="22" y="22" width="6" height="214" rx="3" fill="var(--lilac)"/>
+<text x="49" y="49" font-size="14" class="mono lilac" letter-spacing="1">01 / VOOMVERSE, S.L.</text><text x="49" y="120" font-size="62" class="" font-weight="650" letter-spacing="-2.5">FirstLook</text><text x="50" y="159" font-size="21" class="muted" >A product. And everything it takes to build it.</text><text x="50" y="205" font-size="13" class="mono muted" >QUIET LENS / PRODUCT ENGINEERING / PLATFORM</text><text x="50" y="235" font-size="13" class="mono lilac" >CTO · 2026–present</text><g transform="translate(895 36)">
+  <rect x="18" y="15" width="170" height="162" rx="24" fill="var(--lilac-bg)" stroke="var(--line)"/>
+  <rect x="46" y="38" width="170" height="162" rx="24" fill="var(--bg)" stroke="var(--lilac)"/>
+  <rect x="46" y="38" width="170" height="162" rx="24" fill="none" stroke="var(--lilac)" stroke-width="3" class="motion scan"/>
+  <path d="M70 92V65H98M164 65H191V92M70 147V174H98M164 174H191V147" fill="none" stroke="var(--lilac)" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="131" cy="119" r="27" fill="var(--lilac-bg)" stroke="var(--lilac)"/>
+  <path d="M120 119H142M131 108V130" stroke="var(--lilac)" stroke-width="2"/>
+</g>
+<text x="1150" y="40" font-size="11" class="mono muted" text-anchor="end">PRIVATE BUILD ↗</text>
+</svg>

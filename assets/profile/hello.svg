@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180" role="img" aria-labelledby="title desc">
+<title id="title">Have a good problem? Let’s talk.</title>
+<desc id="desc">Not looking for a new role. Open to business, collaborations and interesting conversations. Email Carlos Pinto.</desc>
+<!-- Original editable vector artwork. No scripts, fonts, trackers or external assets. -->
+<style>
+:root { color-scheme: light dark; --bg:#F5F3EE; --panel:#EAE8E1; --ink:#202824; --muted:#58625C; --line:#D3D6CC; --mint:#42682F; --mint-bg:#DEEDCA; --lilac:#63518B; --lilac-bg:#E5DFF0; --peach:#884829; --peach-bg:#F3DFD1; --code:#1C2621; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#38443B; --code-green:#D1F798; --code-peach:#E9B391; --code-lilac:#C7B7EC; }
+@media(prefers-color-scheme:dark) { :root { --bg:#121917; --panel:#1A2320; --ink:#F0F0E8; --muted:#A9B5AD; --line:#354139; --mint:#C6EF95; --mint-bg:#293A23; --lilac:#CCBCEF; --lilac-bg:#2E293A; --peach:#EBB394; --peach-bg:#3C2D25; --code:#1B2520; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#405044; }}
+text { fill:var(--ink); font-family:Inter,Arial,Helvetica,sans-serif; }
+.mono { font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace; }
+.serif { font-family:Georgia,"Times New Roman",serif; }
+.muted { fill:var(--muted); }
+.mint { fill:var(--mint); }
+.lilac { fill:var(--lilac); }
+.peach { fill:var(--peach); }
+.fine { font-size:14px; letter-spacing:1.4px; }
+@media(prefers-reduced-motion:reduce) { .motion,.cursor,.blink { animation:none !important; } .cursor { opacity:1; } }
+
+</style>
+<rect x="1" y="1" width="1198" height="179" rx="20" fill="var(--mint-bg)"/>
+<text x="40" y="43" font-size="13" class="mono mint" letter-spacing="1">THE INBOX IS OPEN. THE JOB SEARCH IS NOT.</text><text x="39" y="103" font-size="43" class="serif" letter-spacing="-1">Have a good problem?</text><text x="40" y="144" font-size="19" class="muted" >Business, collaborations, or a conversation worth having.</text><circle cx="1080" cy="90" r="49" fill="var(--bg)"/>
+<path d="M1060 110L1100 70M1060 70H1100V110" fill="none" stroke="var(--mint)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+
+</svg>

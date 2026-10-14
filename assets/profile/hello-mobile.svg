@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="216" viewBox="0 0 560 216" role="img" aria-labelledby="title desc">
+<title id="title">Have a good problem? Let’s talk.</title>
+<desc id="desc">Open to business, collaborations and good conversations. Not looking for a role.</desc>
+<!-- Original editable vector artwork. No scripts, fonts, trackers or external assets. -->
+<style>
+:root { color-scheme: light dark; --bg:#F5F3EE; --panel:#EAE8E1; --ink:#202824; --muted:#58625C; --line:#D3D6CC; --mint:#42682F; --mint-bg:#DEEDCA; --lilac:#63518B; --lilac-bg:#E5DFF0; --peach:#884829; --peach-bg:#F3DFD1; --code:#1C2621; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#38443B; --code-green:#D1F798; --code-peach:#E9B391; --code-lilac:#C7B7EC; }
+@media(prefers-color-scheme:dark) { :root { --bg:#121917; --panel:#1A2320; --ink:#F0F0E8; --muted:#A9B5AD; --line:#354139; --mint:#C6EF95; --mint-bg:#293A23; --lilac:#CCBCEF; --lilac-bg:#2E293A; --peach:#EBB394; --peach-bg:#3C2D25; --code:#1B2520; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#405044; }}
+text { fill:var(--ink); font-family:Inter,Arial,Helvetica,sans-serif; }
+.mono { font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace; }
+.serif { font-family:Georgia,"Times New Roman",serif; }
+.muted { fill:var(--muted); }
+.mint { fill:var(--mint); }
+.lilac { fill:var(--lilac); }
+.peach { fill:var(--peach); }
+.fine { font-size:14px; letter-spacing:1.4px; }
+@media(prefers-reduced-motion:reduce) { .motion,.cursor,.blink { animation:none !important; } .cursor { opacity:1; } }
+
+</style>
+<rect x="1" y="1" width="558" height="215" rx="20" fill="var(--mint-bg)"/>
+<text x="25" y="38" font-size="12" class="mono mint" >OPEN TO BUSINESS. NOT JOB HUNTING.</text><text x="24" y="92" font-size="35" class="serif" letter-spacing="-1">Have a good problem?</text><text x="25" y="132" font-size="18" class="muted" >Business, collaborations,</text><text x="25" y="159" font-size="18" class="muted" >or a conversation worth having.</text><text x="530" y="195" font-size="13" class="mono mint" text-anchor="end">SAY HELLO ↗</text>
+</svg>

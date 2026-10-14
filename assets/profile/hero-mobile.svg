@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="546" viewBox="0 0 560 546" role="img" aria-labelledby="title desc">
+<title id="title">Carlos Pinto. CTO by role. Builder by default.</title>
+<desc id="desc">Mobile version of the Carlos Pinto profile cover. Building FirstLook, shaping Apivo, exploring Nomos. Based in Madrid; not looking for a new role.</desc>
+<!-- Original editable vector artwork. No scripts, fonts, trackers or external assets. -->
+<style>
+:root { color-scheme: light dark; --bg:#F5F3EE; --panel:#EAE8E1; --ink:#202824; --muted:#58625C; --line:#D3D6CC; --mint:#42682F; --mint-bg:#DEEDCA; --lilac:#63518B; --lilac-bg:#E5DFF0; --peach:#884829; --peach-bg:#F3DFD1; --code:#1C2621; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#38443B; --code-green:#D1F798; --code-peach:#E9B391; --code-lilac:#C7B7EC; }
+@media(prefers-color-scheme:dark) { :root { --bg:#121917; --panel:#1A2320; --ink:#F0F0E8; --muted:#A9B5AD; --line:#354139; --mint:#C6EF95; --mint-bg:#293A23; --lilac:#CCBCEF; --lilac-bg:#2E293A; --peach:#EBB394; --peach-bg:#3C2D25; --code:#1B2520; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#405044; }}
+text { fill:var(--ink); font-family:Inter,Arial,Helvetica,sans-serif; }
+.mono { font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace; }
+.serif { font-family:Georgia,"Times New Roman",serif; }
+.muted { fill:var(--muted); }
+.mint { fill:var(--mint); }
+.lilac { fill:var(--lilac); }
+.peach { fill:var(--peach); }
+.fine { font-size:14px; letter-spacing:1.4px; }
+@media(prefers-reduced-motion:reduce) { .motion,.cursor,.blink { animation:none !important; } .cursor { opacity:1; } }
+
+
+.cursor { animation:caret 1.4s steps(1,end) infinite; }
+@keyframes caret { 0%,55% { opacity:1 } 56%,100% { opacity:0 } }
+.turn { transform-box:fill-box; transform-origin:center; animation:turn 20s linear infinite; }
+@keyframes turn { to { transform:rotate(360deg) } }
+.underline { stroke-dasharray:290; stroke-dashoffset:290; animation:draw 8s ease-in-out infinite; }
+@keyframes draw { 0%,6% {stroke-dashoffset:290} 30%,85% {stroke-dashoffset:0} 100%{stroke-dashoffset:290} }
+@media(prefers-reduced-motion:reduce) { .underline {stroke-dashoffset:0} }
+</style>
+<rect x="1" y="1" width="558" height="544" rx="22" fill="var(--bg)" stroke="var(--line)"/>
+<circle cx="28" cy="30" r="4" fill="var(--mint)"/>
+<text x="44" y="35" font-size="14" class="mono muted" >xcoder-es / hello, world</text><text x="26" y="112" font-size="58" class="serif" letter-spacing="-2">Carlos Pinto.</text><text x="28" y="155" font-size="28" class="" >CTO by role.</text><text x="28" y="194" font-size="31" class="mint" font-weight="650" letter-spacing="-.7">Builder by default.</text><path class="motion underline" d="M29 208 Q164 218 295 207" fill="none" stroke="var(--mint)" stroke-width="2"/><text x="28" y="246" font-size="16" class="muted" >AI platforms. SaaS. Systems that hold up.</text><rect x="28" y="277" width="504" height="202" rx="14" fill="var(--code)"/>
+<path d="M28 313H532" stroke="var(--code-line)"/>
+<text x="45" y="300" font-size="13" class="mono" style="fill:var(--code-muted)">now.ts</text><text x="45" y="344" font-size="17" class="mono" style="fill:var(--code-lilac)">const focus = {</text><text x="65" y="373" font-size="17" class="mono" style="fill:var(--code-green)">building: &quot;FirstLook&quot;,</text><text x="65" y="402" font-size="17" class="mono" style="fill:var(--code-peach)">shaping: &quot;Apivo&quot;,</text><text x="65" y="431" font-size="17" class="mono" style="fill:var(--code-ink)">exploring: &quot;Nomos&quot;</text><text x="45" y="459" font-size="17" class="mono" style="fill:var(--code-lilac)">};</text><rect class="cursor" x="78" y="444" width="9" height="18" fill="var(--code-green)"/><g transform="translate(491 133)"><polygon class="motion turn" points="27.00,0.00 9.39,2.52 23.38,13.50 19.09,19.09 4.86,8.42 6.99,26.08 0.00,27.00 -2.52,9.39 -13.50,23.38 -19.09,19.09 -8.42,4.86 -26.08,6.99 -27.00,0.00 -9.39,-2.52 -23.38,-13.50 -19.09,-19.09 -4.86,-8.42 -6.99,-26.08 -0.00,-27.00 2.52,-9.39 13.50,-23.38 19.09,-19.09 8.42,-4.86 26.08,-6.99" fill="var(--mint)" /></g><text x="28" y="518" font-size="13" class="mono muted" >MADRID, ES</text><text x="530" y="518" font-size="12" class="mono muted" text-anchor="end">BUSINESS + GOOD CONVERSATIONS</text>
+</svg>

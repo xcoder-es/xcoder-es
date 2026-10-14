@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="293" viewBox="0 0 560 293" role="img" aria-labelledby="title desc">
+<title id="title">Apivo — Fractional CTO, 2026–present.</title>
+<desc id="desc">Technical direction, architecture and hands-on delivery for services designed to launch independently and connect into a shared ecosystem.</desc>
+<!-- Original editable vector artwork. No scripts, fonts, trackers or external assets. -->
+<style>
+:root { color-scheme: light dark; --bg:#F5F3EE; --panel:#EAE8E1; --ink:#202824; --muted:#58625C; --line:#D3D6CC; --mint:#42682F; --mint-bg:#DEEDCA; --lilac:#63518B; --lilac-bg:#E5DFF0; --peach:#884829; --peach-bg:#F3DFD1; --code:#1C2621; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#38443B; --code-green:#D1F798; --code-peach:#E9B391; --code-lilac:#C7B7EC; }
+@media(prefers-color-scheme:dark) { :root { --bg:#121917; --panel:#1A2320; --ink:#F0F0E8; --muted:#A9B5AD; --line:#354139; --mint:#C6EF95; --mint-bg:#293A23; --lilac:#CCBCEF; --lilac-bg:#2E293A; --peach:#EBB394; --peach-bg:#3C2D25; --code:#1B2520; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#405044; }}
+text { fill:var(--ink); font-family:Inter,Arial,Helvetica,sans-serif; }
+.mono { font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace; }
+.serif { font-family:Georgia,"Times New Roman",serif; }
+.muted { fill:var(--muted); }
+.mint { fill:var(--mint); }
+.lilac { fill:var(--lilac); }
+.peach { fill:var(--peach); }
+.fine { font-size:14px; letter-spacing:1.4px; }
+@media(prefers-reduced-motion:reduce) { .motion,.cursor,.blink { animation:none !important; } .cursor { opacity:1; } }
+
+</style>
+<rect x="1" y="1" width="558" height="291" rx="20" fill="var(--bg)" stroke="var(--line)"/>
+<g transform="translate(450 47)" fill="var(--peach-bg)" stroke="var(--peach)" stroke-width="1.5">
+  <rect x="0" y="0" width="29" height="29" rx="7"/><rect x="38" y="0" width="29" height="29" rx="7"/><rect x="0" y="38" width="29" height="29" rx="7"/><rect x="38" y="38" width="29" height="29" rx="7"/>
+  <path d="M29 14H38M14 29V38M52 29V38M29 52H38" fill="none"/>
+</g>
+<text x="28" y="40" font-size="13" class="mono peach" letter-spacing=".8">03 / FRACTIONAL CTO</text><text x="28" y="104" font-size="48" class="serif" letter-spacing="-1">Apivo</text><text x="28" y="149" font-size="20" class="" >Small services. Bigger picture.</text><text x="28" y="184" font-size="16" class="muted" >Technical direction and delivery.</text><text x="28" y="209" font-size="16" class="muted" >Independent launches. Connected thinking.</text><path d="M28 239H532" stroke="var(--line)"/><text x="28" y="268" font-size="12" class="mono muted" >2026–PRESENT</text><text x="530" y="268" font-size="12" class="mono peach" text-anchor="end">LET’S TALK ↗</text>
+</svg>

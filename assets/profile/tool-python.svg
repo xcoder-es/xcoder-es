@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="108" viewBox="0 0 112 108" role="img" aria-labelledby="title desc">
+<title id="title">Python</title>
+<desc id="desc">Python — part of my engineering toolkit. Typographic tile, not an official logo.</desc>
+<!-- Original editable vector artwork. No scripts, fonts, trackers or external assets. -->
+<style>
+:root { color-scheme: light dark; --bg:#F5F3EE; --panel:#EAE8E1; --ink:#202824; --muted:#58625C; --line:#D3D6CC; --mint:#42682F; --mint-bg:#DEEDCA; --lilac:#63518B; --lilac-bg:#E5DFF0; --peach:#884829; --peach-bg:#F3DFD1; --code:#1C2621; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#38443B; --code-green:#D1F798; --code-peach:#E9B391; --code-lilac:#C7B7EC; }
+@media(prefers-color-scheme:dark) { :root { --bg:#121917; --panel:#1A2320; --ink:#F0F0E8; --muted:#A9B5AD; --line:#354139; --mint:#C6EF95; --mint-bg:#293A23; --lilac:#CCBCEF; --lilac-bg:#2E293A; --peach:#EBB394; --peach-bg:#3C2D25; --code:#1B2520; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#405044; }}
+text { fill:var(--ink); font-family:Inter,Arial,Helvetica,sans-serif; }
+.mono { font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace; }
+.serif { font-family:Georgia,"Times New Roman",serif; }
+.muted { fill:var(--muted); }
+.mint { fill:var(--mint); }
+.lilac { fill:var(--lilac); }
+.peach { fill:var(--peach); }
+.fine { font-size:14px; letter-spacing:1.4px; }
+@media(prefers-reduced-motion:reduce) { .motion,.cursor,.blink { animation:none !important; } .cursor { opacity:1; } }
+
+</style>
+<rect x="1" y="1" width="110" height="106" rx="15" fill="var(--bg)" stroke="var(--line)"/>
+<rect x="31" y="15" width="50" height="43" rx="11" fill="var(--mint-bg)"/>
+<text x="56" y="46" font-size="23" class="mono mint" text-anchor="middle" font-weight="600">Py</text><text x="56" y="84" font-size="12.5" class="" text-anchor="middle" font-weight="500">Python</text>
+</svg>

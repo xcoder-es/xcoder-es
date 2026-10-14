@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="268" viewBox="0 0 560 268" role="img" aria-labelledby="title desc">
+<title id="title">FirstLook — CTO, Voomverse, S.L. — 2026–present.</title>
+<desc id="desc">Quiet Lens design system, product engineering and platform foundations. Private company repository in active development.</desc>
+<!-- Original editable vector artwork. No scripts, fonts, trackers or external assets. -->
+<style>
+:root { color-scheme: light dark; --bg:#F5F3EE; --panel:#EAE8E1; --ink:#202824; --muted:#58625C; --line:#D3D6CC; --mint:#42682F; --mint-bg:#DEEDCA; --lilac:#63518B; --lilac-bg:#E5DFF0; --peach:#884829; --peach-bg:#F3DFD1; --code:#1C2621; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#38443B; --code-green:#D1F798; --code-peach:#E9B391; --code-lilac:#C7B7EC; }
+@media(prefers-color-scheme:dark) { :root { --bg:#121917; --panel:#1A2320; --ink:#F0F0E8; --muted:#A9B5AD; --line:#354139; --mint:#C6EF95; --mint-bg:#293A23; --lilac:#CCBCEF; --lilac-bg:#2E293A; --peach:#EBB394; --peach-bg:#3C2D25; --code:#1B2520; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#405044; }}
+text { fill:var(--ink); font-family:Inter,Arial,Helvetica,sans-serif; }
+.mono { font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace; }
+.serif { font-family:Georgia,"Times New Roman",serif; }
+.muted { fill:var(--muted); }
+.mint { fill:var(--mint); }
+.lilac { fill:var(--lilac); }
+.peach { fill:var(--peach); }
+.fine { font-size:14px; letter-spacing:1.4px; }
+@media(prefers-reduced-motion:reduce) { .motion,.cursor,.blink { animation:none !important; } .cursor { opacity:1; } }
+
+
+.scan { stroke-dasharray:28 560; animation:scan 14s linear infinite; }
+@keyframes scan { to { stroke-dashoffset:-1176 } }
+@media(prefers-reduced-motion:reduce) { .scan {stroke-dasharray:none;opacity:.4} }
+</style>
+<rect x="1" y="1" width="558" height="267" rx="20" fill="var(--bg)" stroke="var(--line)"/>
+<rect x="18" y="22" width="5" height="224" rx="2.5" fill="var(--lilac)"/>
+<text x="38" y="44" font-size="13" class="mono lilac" >01 / VOOMVERSE, S.L.</text><text x="38" y="107" font-size="52" class="" font-weight="650" letter-spacing="-2">FirstLook</text><text x="38" y="147" font-size="20" class="muted" >A product. And everything</text><text x="38" y="175" font-size="20" class="muted" >it takes to build it.</text><text x="38" y="214" font-size="14" class="mono lilac" >CTO · 2026–present</text><text x="38" y="245" font-size="12" class="mono muted" >QUIET LENS / PRODUCT / PLATFORM</text><g transform="translate(431 82)" stroke="var(--lilac)" fill="none" stroke-width="2"><rect width="75" height="75" rx="14" fill="var(--lilac-bg)"/><path d="M17 29V17H29M47 17H59V29M17 46V59H29M47 59H59V46"/><circle cx="38" cy="38" r="12"/></g>
+</svg>

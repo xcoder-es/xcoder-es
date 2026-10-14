@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="293" viewBox="0 0 560 293" role="img" aria-labelledby="title desc">
+<title id="title">Nomos — AI autonomy, with boundaries. Open source.</title>
+<desc id="desc">Open-source AI governance framework. Neural Parliament, Ulysses Contracts and Identity Layer. Python reference implementation and Lean 4 protocol models.</desc>
+<!-- Original editable vector artwork. No scripts, fonts, trackers or external assets. -->
+<style>
+:root { color-scheme: light dark; --bg:#F5F3EE; --panel:#EAE8E1; --ink:#202824; --muted:#58625C; --line:#D3D6CC; --mint:#42682F; --mint-bg:#DEEDCA; --lilac:#63518B; --lilac-bg:#E5DFF0; --peach:#884829; --peach-bg:#F3DFD1; --code:#1C2621; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#38443B; --code-green:#D1F798; --code-peach:#E9B391; --code-lilac:#C7B7EC; }
+@media(prefers-color-scheme:dark) { :root { --bg:#121917; --panel:#1A2320; --ink:#F0F0E8; --muted:#A9B5AD; --line:#354139; --mint:#C6EF95; --mint-bg:#293A23; --lilac:#CCBCEF; --lilac-bg:#2E293A; --peach:#EBB394; --peach-bg:#3C2D25; --code:#1B2520; --code-ink:#F0F4EC; --code-muted:#A9B8AD; --code-line:#405044; }}
+text { fill:var(--ink); font-family:Inter,Arial,Helvetica,sans-serif; }
+.mono { font-family:"SFMono-Regular",Consolas,"Liberation Mono",monospace; }
+.serif { font-family:Georgia,"Times New Roman",serif; }
+.muted { fill:var(--muted); }
+.mint { fill:var(--mint); }
+.lilac { fill:var(--lilac); }
+.peach { fill:var(--peach); }
+.fine { font-size:14px; letter-spacing:1.4px; }
+@media(prefers-reduced-motion:reduce) { .motion,.cursor,.blink { animation:none !important; } .cursor { opacity:1; } }
+
+</style>
+<rect x="1" y="1" width="558" height="291" rx="20" fill="var(--bg)" stroke="var(--line)"/>
+<circle cx="484" cy="85" r="35" fill="var(--mint-bg)" stroke="var(--mint)"/>
+<path d="M467 86L480 98L503 71" stroke="var(--mint)" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="28" y="40" font-size="13" class="mono mint" letter-spacing=".8">02 / OPEN SOURCE</text><text x="28" y="104" font-size="48" class="serif" letter-spacing="-1">Nomos</text><text x="28" y="149" font-size="20" class="" >AI autonomy, with boundaries.</text><text x="28" y="184" font-size="16" class="muted" >Deliberation. Pre-commitment.</text><text x="28" y="209" font-size="16" class="muted" >Identity. A little less hand-waving.</text><path d="M28 239H532" stroke="var(--line)"/><text x="28" y="268" font-size="12" class="mono muted" >PYTHON / LEAN 4</text><text x="530" y="268" font-size="12" class="mono mint" text-anchor="end">EXPLORE ↗</text>
+</svg>
