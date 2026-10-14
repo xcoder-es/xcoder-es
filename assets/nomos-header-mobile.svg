@@ -1,0 +1,205 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="604"
+  viewBox="0 0 640 604" role="img" aria-labelledby="header-title header-description">
+<title id="header-title">Carlos Pinto — CTO at Voomverse, S.L. and Fractional CTO at Apivo, both 2026–present. CTO and AI platform architect.</title>
+<desc id="header-description">Both current appointments remain visible throughout this animated career overview: CTO at Voomverse, S.L., building FirstLook, and Fractional CTO at Apivo, each 2026–present. They are concurrent, not successive. 2010–2012: Amazon, Principal SDE → Senior SDM. 2012–2013: Google, SWE III · Google Cloud Platform. 2013: NASA, Database Engineer · contract. 2013–2014: Google, Senior Staff SWE · ML &amp; RecSys. 2014–2016: Google Research, Senior Staff SWE · Responsible AI. 2017–2019: Hitachi Vantara, Senior Lead · Service Engineering. 2019–2021: Neurona Technologies, Founding CTO · acquired. 2022–2023: Datacom, Senior Solutions Architect. 2023–2026: Datacom / Datapay, Senior AI Architect · AI strategy. Based in Madrid. Open to business, collaborations and interesting conversations, not seeking a new role. Milestones are not drawn to a proportional time scale. The README contains the complete static career table. Motion follows the viewer&#x27;s reduced-motion preference.</desc>
+<!--
+  Corrected career header, 14 October 2026.
+  Career facts supplied by Carlos Pinto; current appointments explicitly corrected by him.
+  The overview groups employers; the animated captions retain every distinct past role.
+  No scripts, external assets, embedded fonts, tracking or private repository data.
+  Current appointments stay visible throughout; reduced motion shows the current caption.
+  Edit the text elements directly to maintain this header.
+-->
+<style>
+:root {
+  color-scheme: light dark;
+  --fg: #1B2233; --muted: #5B6577; --rule: #D5D6D8;
+  --surface: #F6F4F0; --dim: #B9C0CD;
+  --gold: #A16207; --signal: #C2410C;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fg: #E9E4DA; --muted: #A4ADBC; --rule: #303848;
+    --surface: #151C28; --dim: #536075;
+    --gold: #DDC078; --signal: #F3A36A;
+  }
+}
+text {
+  fill: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+.name {
+  font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  font-size: 68px; font-weight: 500; letter-spacing: -1.7px;
+}
+.subtitle { font-size: 22px; }
+.mono, .eyebrow, .date, .caption, .chapter-meta {
+  font-family: ui-monospace, "SFMono-Regular", "SF Mono", Menlo, Consolas, monospace;
+}
+.eyebrow { font-size: 11px; letter-spacing: 1.5px; fill: var(--muted); }
+.caption { font-size: 11px; letter-spacing: 1.8px; fill: var(--muted); }
+.invitation { font-size: 17px; }
+.aside { font-size: 14px; fill: var(--muted); }
+.card { fill: var(--surface); stroke: var(--rule); stroke-width: 1; }
+.card-active { fill: none; stroke: var(--gold); stroke-width: 1; opacity: 0; }
+.appointment { font-size: 14px; font-weight: 600; letter-spacing: 1.4px; fill: var(--gold); }
+.employer { font-size: 28px; font-weight: 600; letter-spacing: -.4px; }
+.date { font-size: 11px; fill: var(--muted); }
+.focus { font-size: 16px; fill: var(--muted); }
+.rule { stroke: var(--rule); stroke-width: 1; fill: none; }
+.rail { stroke: var(--rule); stroke-width: 1.5; fill: none; }
+.rail-node { fill: var(--dim); }
+.rail-name { font-size: 14px; font-weight: 600; }
+.rail-date { font-size: 11px; fill: var(--muted); }
+.rail-name.current { fill: var(--gold); }
+.chapter-meta { font-size: 11px; letter-spacing: .8px; fill: var(--gold); }
+.chapter-title { font-size: 20px; }
+.chapter-current-title { font-size: 18px; }
+.chapter-index { font-size: 12px; fill: var(--muted); }
+.sparkle { stroke: var(--gold); fill: none; stroke-width: 1.5; stroke-linecap: round; }
+.sparkle-inner { transform-box: fill-box; transform-origin: center; animation: twinkle 6s ease-in-out infinite; }
+@keyframes twinkle { 0%,75%,100% {opacity:.6;transform:rotate(0deg) scale(1)} 88% {opacity:1;transform:rotate(90deg) scale(1.1)} }
+.chapter { opacity: 0; }
+.chapter-current { opacity: 1; }
+.cycle { animation-duration: 34s; animation-timing-function: linear; animation-iteration-count: infinite; }
+.lit-node { fill: var(--signal); opacity: 0; }
+.halo { fill: none; stroke: var(--gold); stroke-width: 1.5; opacity: 0; }
+.now-node { fill: var(--gold); }
+.pulse { fill: none; stroke: var(--gold); stroke-width: 1; opacity: .35; animation: breathe 3.4s ease-in-out infinite; }
+@keyframes breathe { 0%,100% {r:8;opacity:.16} 50% {r:12;opacity:.5} }
+.beam { fill: var(--gold); opacity: .75; }
+.beam-halo { fill: var(--gold); opacity: .12; }
+
+@keyframes chapter0{0.00000%{opacity:0}0.47059%{opacity:1}7.47059%{opacity:1}7.94118%{opacity:0}100.00000%{opacity:0}}
+.slide-0{animation-name:chapter0;}
+@keyframes chapter1{0.00000%{opacity:0}7.94118%{opacity:0}8.41176%{opacity:1}15.41176%{opacity:1}15.88235%{opacity:0}100.00000%{opacity:0}}
+.slide-1{animation-name:chapter1;}
+@keyframes chapter2{0.00000%{opacity:0}15.88235%{opacity:0}16.35294%{opacity:1}23.35294%{opacity:1}23.82353%{opacity:0}100.00000%{opacity:0}}
+.slide-2{animation-name:chapter2;}
+@keyframes chapter3{0.00000%{opacity:0}23.82353%{opacity:0}24.29412%{opacity:1}31.29412%{opacity:1}31.76471%{opacity:0}100.00000%{opacity:0}}
+.slide-3{animation-name:chapter3;}
+@keyframes chapter4{0.00000%{opacity:0}31.76471%{opacity:0}32.23529%{opacity:1}39.23529%{opacity:1}39.70588%{opacity:0}100.00000%{opacity:0}}
+.slide-4{animation-name:chapter4;}
+@keyframes chapter5{0.00000%{opacity:0}39.70588%{opacity:0}40.17647%{opacity:1}47.17647%{opacity:1}47.64706%{opacity:0}100.00000%{opacity:0}}
+.slide-5{animation-name:chapter5;}
+@keyframes chapter6{0.00000%{opacity:0}47.64706%{opacity:0}48.11765%{opacity:1}55.11765%{opacity:1}55.58824%{opacity:0}100.00000%{opacity:0}}
+.slide-6{animation-name:chapter6;}
+@keyframes chapter7{0.00000%{opacity:0}55.58824%{opacity:0}56.05882%{opacity:1}63.05882%{opacity:1}63.52941%{opacity:0}100.00000%{opacity:0}}
+.slide-7{animation-name:chapter7;}
+@keyframes chapter8{0.00000%{opacity:0}63.52941%{opacity:0}64.00000%{opacity:1}71.00000%{opacity:1}71.47059%{opacity:0}100.00000%{opacity:0}}
+.slide-8{animation-name:chapter8;}
+@keyframes chapter9{0.00000%{opacity:0}71.47059%{opacity:0}71.94118%{opacity:1}99.52941%{opacity:1}100.00000%{opacity:0}}
+.slide-9{animation-name:chapter9;}
+@keyframes journey{0.00000%{transform:translate(90px,344px);}7.29412%{transform:translate(90px,344px);}7.94118%{transform:translate(254px,344px);}15.23529%{transform:translate(254px,344px);}15.88235%{transform:translate(418px,344px);}23.17647%{transform:translate(418px,344px);}23.82353%{transform:translate(254px,344px);}31.11765%{transform:translate(254px,344px);}31.76471%{transform:translate(254px,344px);}39.05882%{transform:translate(254px,344px);}39.70588%{transform:translate(582px,344px);}47.00000%{transform:translate(582px,344px);}47.64706%{transform:translate(746px,344px);}54.94118%{transform:translate(746px,344px);}55.58824%{transform:translate(910px,344px);}62.88235%{transform:translate(910px,344px);}63.52941%{transform:translate(910px,344px);}70.82353%{transform:translate(910px,344px);}71.47059%{transform:translate(1100px,344px);}99.35294%{transform:translate(1100px,344px);}100%{transform:translate(90px,344px);}}
+.journey{animation-name:journey;}
+.name { font-size: 54px; letter-spacing: -1.2px; }
+.subtitle { font-size: 20px; }
+.eyebrow { font-size: 12px; }
+.appointment { font-size: 14px; }
+.employer { font-size: 29px; }
+.date { font-size: 13px; }
+.focus { font-size: 16px; }
+.chapter-meta { font-size: 12px; }
+.chapter-title { font-size: 20px; }
+.chapter-current-title { font-size: 17px; }
+.caption { font-size: 12px; }
+.invitation { font-size: 17px; }
+.mobile-dot { fill: var(--dim); }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation: none !important; }
+  .chapter { opacity: 0 !important; }
+  .chapter-current { opacity: 1 !important; }
+  .moving, .lit-node, .halo, .pulse { display: none; }
+  .card-active { opacity: .5; }
+  .sparkle-inner { opacity: .75; }
+}
+</style>
+<text x="32" y="31" class="eyebrow">CARLOS PINTO / XCODER-ES</text>
+<text x="32" y="88" class="name">Carlos Pinto</text>
+<text x="32" y="123" class="subtitle">CTO and AI platform architect</text>
+<g class="appointment-card">
+  <rect class="card" x="32" y="153" width="576" height="110" rx="12"/>
+  <rect class="card-active cycle slide-9" x="32" y="153" width="576" height="110" rx="12"/>
+  <path d="M 33 180 V 236" stroke="var(--gold)" stroke-width="2"/>
+  <text x="56" y="182" class="appointment">CTO</text>
+  <text x="584" y="182" class="date" text-anchor="end">2026–present</text>
+  <text x="56" y="219" class="employer">Voomverse, S.L.</text>
+  <text x="56" y="246" class="focus">FirstLook · Product, platform &amp; delivery</text>
+</g>
+<g class="appointment-card">
+  <rect class="card" x="32" y="277" width="576" height="110" rx="12"/>
+  <rect class="card-active cycle slide-9" x="32" y="277" width="576" height="110" rx="12"/>
+  <path d="M 33 304 V 360" stroke="var(--gold)" stroke-width="2"/>
+  <text x="56" y="306" class="appointment">FRACTIONAL CTO</text>
+  <text x="584" y="306" class="date" text-anchor="end">2026–present</text>
+  <text x="56" y="343" class="employer">Apivo</text>
+  <text x="56" y="370" class="focus">Technical leadership · AI &amp; SaaS</text>
+</g>
+<text x="32" y="424" class="caption">THE CHAPTERS SO FAR</text>
+<path class="rule" d="M 256 420 H 608"/>
+<g class="chapter cycle slide-0" aria-hidden="true">
+<text x="32" y="474" class="chapter-meta">2010–2012 / AMAZON</text>
+<text x="32" y="508" class="chapter-title">Principal SDE → Senior SDM</text>
+</g>
+<g class="chapter cycle slide-1" aria-hidden="true">
+<text x="32" y="474" class="chapter-meta">2012–2013 / GOOGLE</text>
+<text x="32" y="508" class="chapter-title">SWE III · Google Cloud Platform</text>
+</g>
+<g class="chapter cycle slide-2" aria-hidden="true">
+<text x="32" y="474" class="chapter-meta">2013 / NASA</text>
+<text x="32" y="508" class="chapter-title">Database Engineer · contract</text>
+</g>
+<g class="chapter cycle slide-3" aria-hidden="true">
+<text x="32" y="474" class="chapter-meta">2013–2014 / GOOGLE</text>
+<text x="32" y="508" class="chapter-title">Senior Staff SWE · ML &amp; RecSys</text>
+</g>
+<g class="chapter cycle slide-4" aria-hidden="true">
+<text x="32" y="474" class="chapter-meta">2014–2016 / GOOGLE RESEARCH</text>
+<text x="32" y="508" class="chapter-title">Senior Staff SWE · Responsible AI</text>
+</g>
+<g class="chapter cycle slide-5" aria-hidden="true">
+<text x="32" y="474" class="chapter-meta">2017–2019 / HITACHI VANTARA</text>
+<text x="32" y="508" class="chapter-title">Senior Lead · Service Engineering</text>
+</g>
+<g class="chapter cycle slide-6" aria-hidden="true">
+<text x="32" y="474" class="chapter-meta">2019–2021 / NEURONA TECHNOLOGIES</text>
+<text x="32" y="508" class="chapter-title">Founding CTO · acquired</text>
+</g>
+<g class="chapter cycle slide-7" aria-hidden="true">
+<text x="32" y="474" class="chapter-meta">2022–2023 / DATACOM</text>
+<text x="32" y="508" class="chapter-title">Senior Solutions Architect</text>
+</g>
+<g class="chapter cycle slide-8" aria-hidden="true">
+<text x="32" y="474" class="chapter-meta">2023–2026 / DATACOM / DATAPAY</text>
+<text x="32" y="508" class="chapter-title">Senior AI Architect · AI strategy</text>
+</g>
+<g class="chapter chapter-current cycle slide-9" aria-hidden="true">
+<text x="32" y="474" class="chapter-meta">2026–PRESENT / TWO CONCURRENT ROLES</text>
+<text x="32" y="508" class="chapter-title chapter-current-title">CTO · Voomverse, S.L.  /  Fractional CTO · Apivo</text>
+</g>
+<path class="rule" d="M 32 537 H 608"/>
+<text x="32" y="569" class="invitation">Open to business, collaborations &amp; good conversations.</text>
+<text x="32" y="592" class="aside">Madrid, ES · CTO by role. Builder by default.</text>
+<circle class="mobile-dot" cx="466" cy="32" r="2.4"/>
+<circle class="now-node chapter cycle slide-0" cx="466" cy="32" r="3.3"/>
+<circle class="mobile-dot" cx="480" cy="32" r="2.4"/>
+<circle class="now-node chapter cycle slide-1" cx="480" cy="32" r="3.3"/>
+<circle class="mobile-dot" cx="494" cy="32" r="2.4"/>
+<circle class="now-node chapter cycle slide-2" cx="494" cy="32" r="3.3"/>
+<circle class="mobile-dot" cx="508" cy="32" r="2.4"/>
+<circle class="now-node chapter cycle slide-3" cx="508" cy="32" r="3.3"/>
+<circle class="mobile-dot" cx="522" cy="32" r="2.4"/>
+<circle class="now-node chapter cycle slide-4" cx="522" cy="32" r="3.3"/>
+<circle class="mobile-dot" cx="536" cy="32" r="2.4"/>
+<circle class="now-node chapter cycle slide-5" cx="536" cy="32" r="3.3"/>
+<circle class="mobile-dot" cx="550" cy="32" r="2.4"/>
+<circle class="now-node chapter cycle slide-6" cx="550" cy="32" r="3.3"/>
+<circle class="mobile-dot" cx="564" cy="32" r="2.4"/>
+<circle class="now-node chapter cycle slide-7" cx="564" cy="32" r="3.3"/>
+<circle class="mobile-dot" cx="578" cy="32" r="2.4"/>
+<circle class="now-node chapter cycle slide-8" cx="578" cy="32" r="3.3"/>
+<circle class="mobile-dot" cx="592" cy="32" r="2.4"/>
+<circle class="now-node chapter cycle slide-9" cx="592" cy="32" r="3.3"/>
+<path class="sparkle" d="M 589 91 h18 M 598 82 v18"/>
+</svg>
